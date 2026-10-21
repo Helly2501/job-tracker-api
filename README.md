@@ -2,6 +2,11 @@
 
 REST API for tracking job applications: create, update, filter, and monitor your job search pipeline.
 
+## Screenshots
+![Swagger UI](docs/swagger-ui.png)
+![Create application](docs/create-response.png)
+![Validation error](docs/validation-error.png)
+
 ## Tech stack
 Java 21, Spring Boot 4, Spring Data JPA (Hibernate), MySQL, Maven, Bean Validation, Swagger UI (springdoc), JUnit 5 and Mockito.
 
